@@ -1,6 +1,6 @@
 application:
-  appId: github-io-sample
-  assetId: github-io-sample
+  appId: iotest
+  assetId: iotest
   sdlcType: EDM
   appType: Webapp
   webservice: true
