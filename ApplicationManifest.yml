@@ -1,6 +1,6 @@
 application:
-  appId: iotest
-  assetId: iotest
+  appId: SIGappIOtest1
+  assetId: SIGappIOtest1
   sdlcType: EDM
   appType: Webapp
   webservice: true
@@ -16,9 +16,9 @@ application:
   release: major
 environment:
   scm: github
-  scmOwner: devsecops-test
+  scmOwner: drewtwitchell
   scmRepositoryName: github-io-sample
-  scmBranchName: feature
+  scmBranchName: just-sca
   githubApiUrl: https://api.github.com/repos/
   jiraProjectName: <<JIRA_PROJECT_NAME>>
   jiraIssuesQuery: <<JIRA_ISSUES_QUERY>>
